@@ -1,4 +1,4 @@
-# 💼 Salary Classification from LinkedIn Job Postings (2023-2024)
+# 💼 Salary Classification from LinkedIn Job Postings
 
 ## Project Purpose  
 This project aims to explore whether salary levels in job postings can be predicted using **machine learning** techniques. Using job posting data scraped from **LinkedIn**, the goal is to classify postings into **"High Salary"** or **"Low Salary"** categories, based on features like industry, work type, experience level, company size, and required skills. This analysis supports both **job seekers** and **employers** in making informed career and hiring decisions.
