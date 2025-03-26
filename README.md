@@ -85,8 +85,8 @@ This project aims to explore whether salary levels in job postings can be predic
   - `matplotlib`, `seaborn` – Data visualization  
   - `scikit-learn` – Machine learning models (Decision Tree, Random Forest, AdaBoost), model evaluation, and preprocessing  
   - `imblearn` – SMOTE for class balancing
-- **Google Colab** – Exploratory analysis and model development
-- **CSV File Handling** – Reading, merging, and managing job posting datasets  
+**Google Colab** – Exploratory analysis and model development
+**CSV File Handling** – Reading, merging, and managing job posting datasets  
 
 ## Key Takeaways
 
