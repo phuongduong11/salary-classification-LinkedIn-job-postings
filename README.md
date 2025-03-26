@@ -79,14 +79,14 @@ This project aims to explore whether salary levels in job postings can be predic
 > Combining SMOTE and boosting led to the **most balanced performance**, solving overfitting while preserving high predictive power.
 
 ## Tech Stack
-**Python**:
+- **Python**:
   - `pandas` – Data manipulation and preprocessing  
   - `numpy` – Numerical operations  
   - `matplotlib`, `seaborn` – Data visualization  
   - `scikit-learn` – Machine learning models (Decision Tree, Random Forest, AdaBoost), model evaluation, and preprocessing  
-  - `imblearn` – SMOTE for class balancing
-**Google Colab** – Exploratory analysis and model development
-**CSV File Handling** – Reading, merging, and managing job posting datasets  
+  - `imblearn` – SMOTE for class balancing    
+- **Google Colab** – Exploratory analysis and model development
+- **CSV File Handling** – Reading, merging, and managing job posting datasets  
 
 ## Key Takeaways
 
@@ -101,7 +101,7 @@ This project aims to explore whether salary levels in job postings can be predic
 - **For Employers**: Use insights to create competitive and targeted job postings aligned with market expectations.
 - **For Recruiters & Analysts**: Implement similar classification models to monitor salary trends across industries and improve candidate targeting.
 
-📎 [Explore the full script here](LinkedIn_salary_classification.py)
+📎 [Explore the full script here](LinkedIn%20salary%20classification.py)
 
 
 
